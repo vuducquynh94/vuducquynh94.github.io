@@ -8,6 +8,8 @@
 <img src="images/Project 1.png?raw=true"/>
 
 ---
+---
+
 [Project 2 Paint master](/Project2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
