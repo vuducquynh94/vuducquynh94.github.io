@@ -8,20 +8,10 @@
 <img src="images/Project 1.png?raw=true"/>
 
 ---
-[Project 2 Title](/Project2)
+[Project 2 Paint master](/Project2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
