@@ -4,6 +4,6 @@
 
 I've learned to use OpenWeaterMap API and Bing Map API (HTTP Request).
 
-Link to showcase https://www.youtube.com/watch?v=LVtO96ey9pQ&feature=youtu.be
+Link to showcase (https://www.youtube.com/watch?v=LVtO96ey9pQ&feature=youtu.be)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
