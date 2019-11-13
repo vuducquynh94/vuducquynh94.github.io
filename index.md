@@ -9,7 +9,7 @@
 
 ---
 
-[Project 2 Paint master](/Project2)
+[Project 2 Paint master](/Page)
 <img src="images/Project2.png?raw=true"/>
 
 ---
