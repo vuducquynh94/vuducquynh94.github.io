@@ -1,5 +1,4 @@
-<img src="images/Project 1.png?raw=true"/>
-
+<img src="images/Project2.png?raw=true"/>
 **Project description:** This is a paint program I made for school project. You can draw and add emoticons with different colors. 
 I porgrammed it using QtCreator.
 
