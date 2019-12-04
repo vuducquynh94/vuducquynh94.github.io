@@ -1,5 +1,5 @@
 <img src="images/Project 1.png?raw=true"/>
-**Project description:** This is a dashboard I made for school project. It have a world and local clock. It can display photo and weather on request.
+**Project description:** This is a dashboard I made for school project using QtCreator. It have a world and local clock. It can display photo and weather on request.
 
 I've learned to use OpenWeaterMap API and Bing Map API (HTTP Request).
 
