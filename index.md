@@ -4,12 +4,12 @@
 
 ### My School Projects 
 
-<p style="font-size:14px">[Project 1: Dashboard](/sample_page)
+[Project 1: Dashboard](/sample_page)
 <img src="images/Project 1.png?raw=true"/>
 
 ---
 
-<p style="font-size:14px">[Project 2 Paint master](/Page)
+[Project 2 Paint master](/Page)
 <img src="images/Project2.png?raw=true"/>
 
 ---
