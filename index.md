@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My School Projects 
 
 [Project 1: Dashboard](/sample_page)
 <img src="images/Project 1.png?raw=true"/>
