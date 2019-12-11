@@ -1,4 +1,4 @@
-Clock Widget
+##Clock Widget
 
 <img src="images/Project 1.png?raw=true"/>
 
