@@ -1,4 +1,4 @@
-Painter Widget
+## Painter Widget
 
 <img src="images/Project2.png?raw=true"/>
 
