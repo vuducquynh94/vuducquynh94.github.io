@@ -5,11 +5,17 @@
 ### My School Projects 
 
 [Project 1: Dashboard](/sample_page)
+This is a project I created for the class CSC3220 with Dr. Taiwoo Park.
+I utilized OpenWeatherMap API and Bing Map API (HTTP Request).
+It could Open/Read from an external file.
 <img src="images/Project 1.png?raw=true"/>
 
 ---
 
 [Project 2 Paint master](/Page)
+This is a project I created for the class CSC3220 with Dr. Taiwoo Park.
+The goal is to a design a simple and easy to understand UI without any description.
+I utilized QPainter and QMap and real time event interraction.
 <img src="images/Project2.png?raw=true"/>
 
 
